@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.dataCard {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  height: 45%;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(166, 143, 143, 0.1);
+  padding: 20px;
+  margin: 50px;
+  transition: all 0.3s ease;
+}
+
+.descriptionSpan {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 12px;
+  color: #333;
+}
+
+.customButton {
+  background-color: #006d77;
+  border: none;
+  color: white;
+  width: 50px;
+  padding: 2px 4px;
+  margin: 5px;
+  font-size: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.customButton:hover {
+  background-color: #83c5be;
+}

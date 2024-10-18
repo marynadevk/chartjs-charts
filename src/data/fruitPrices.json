@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Apples",
+    "oldPrice": 2,
+    "newPrice": 3
+  },
+  {
+    "label": "Bananas",
+    "oldPrice": 3,
+    "newPrice": 1.5
+  },
+  {
+    "label": "Pears",
+    "oldPrice": 1.5,
+    "newPrice": 2.5
+  },
+  {
+    "label": "Grapes",
+    "oldPrice": 2.5,
+    "newPrice": 4
+  },
+  {
+    "label": "Oranges",
+    "oldPrice": 4,
+    "newPrice": 3.5
+  },
+  {
+    "label": "Peaches",
+    "oldPrice": 3.5,
+    "newPrice": 2.8
+  }
+]

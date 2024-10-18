@@ -1,0 +1,37 @@
+[
+  {
+    "color": "#d499b9",
+    "country": "Nauru",
+    "population": "10800",
+    "salary": "500",
+    "website": "http://naurugov.nr/"
+  },
+  {
+    "color": "#e8c1c5",
+    "country": "Tuvalu",
+    "population": "11900",
+    "salary": "450",
+    "website": "https://www.gov.tv/"
+  },
+  {
+    "color": "#e0aaff",
+    "country": "Palau",
+    "population": "18200",
+    "salary": "1200",
+    "website": "https://www.palaugov.pw/"
+  },
+  {
+    "color": "#9055a2",
+    "country": "San Marino",
+    "population": "34000",
+    "salary": "3500",
+    "website": "https://www.sanmarino.sm/"
+  },
+  {
+    "color": "#2e294e",
+    "country": "Monaco",
+    "population": "39000",
+    "salary": "5000",
+    "website": "https://www.gouv.mc/"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "color": "#ff6d00",
+    "name": "Van",
+    "salary": "7500"
+  },
+  {
+    "color": "#ef233c",
+    "name": "Isadore",
+    "salary": "5600"
+  },
+  {
+    "color": "#ff6d00",
+    "name": "Harry",
+    "salary": "3000"
+  },
+  {
+    "color": "#ffd500",
+    "name": "Vidal",
+    "salary": "4300"
+  },
+  {
+    "color": "#ce4257",
+    "name": "Cyrus",
+    "salary": "1000"
+  }
+]

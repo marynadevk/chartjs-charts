@@ -1,0 +1,32 @@
+[
+  {
+    "colorLabel": "Orange",
+    "votes": 50,
+    "colorHash": "#fe7f2d"
+  },
+  {
+    "colorLabel": "Blue",
+    "votes": 35,
+    "colorHash": "#8eecf5"
+  },
+  {
+    "colorLabel": "Yellow",
+    "votes": 20,
+    "colorHash": "#ffca3a"
+  },
+  {
+    "colorLabel": "Green",
+    "votes": 40,
+    "colorHash": "#b9fbc0"
+  },
+  {
+    "colorLabel": "Purple",
+    "votes": 30,
+    "colorHash": "#cfbaf0"
+  },
+  {
+    "colorLabel": "Red",
+    "votes": 25,
+    "colorHash": "#e5383b"
+  }
+]

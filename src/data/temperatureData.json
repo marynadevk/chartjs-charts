@@ -1,0 +1,37 @@
+[
+  {
+    "day": "Monday",
+    "low": 1,
+    "high": 12
+  },
+  {
+    "day": "Tuesday",
+    "low": 17,
+    "high": 35
+  },
+  {
+    "day": "Wednesday",
+    "low": 3,
+    "high": 20
+  },
+  {
+    "day": "Thursday",
+    "low": 7,
+    "high": 19
+  },
+  {
+    "day": "Friday",
+    "low": 9,
+    "high": 35
+  },
+  {
+    "day": "Saturday",
+    "low": 14,
+    "high": 27
+  },
+  {
+    "day": "Sunday",
+    "low": 11,
+    "high": 21
+  }
+]
